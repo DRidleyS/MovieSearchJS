@@ -1,5 +1,5 @@
 document.getElementById('link__Input').addEventListener('click', function() {
-  window.location.href = `${window.location.origin}/index.html`;
+  window.location.href = `${window.location.origin}/MovieSearchJS/index.html`;
 });
 const movieListEl = document.querySelector(".movies")
 const query = ""
