@@ -1,5 +1,5 @@
 document.getElementById('link__Input').onclick = function() {
-window.location.href = '/index.html';}
+window.location.href = '/MovieSearchJS/index.html';}
 const movieListEl = document.querySelector(".movies")
 const query = ""
 
